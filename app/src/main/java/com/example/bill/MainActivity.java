@@ -287,7 +287,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-    public void getdata(View view) {
+    public void m(View view) {
         Intent in=new Intent(MainActivity.this,Showimagesactivity.class);
         startActivity(in);
     }
