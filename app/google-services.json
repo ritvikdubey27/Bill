@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "303634152568",
+    "project_id": "bill-cbded",
+    "storage_bucket": "bill-cbded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303634152568:android:60d870de5b56ce5c1dc18d",
+        "android_client_info": {
+          "package_name": "com.example.bill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303634152568-n9706088960k6ecuj4ttopjuo6fp91di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgTYMXHS4C2UpE4RNJg1rP3_CwC_5i-C8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303634152568-n9706088960k6ecuj4ttopjuo6fp91di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
